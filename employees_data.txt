@@ -1,0 +1,33 @@
+Name,OddEven
+EL HAJAL Sami,1
+AZZI Elio,1
+SEMAAN Tony,0
+SHAMI Hasan,0
+BEJJANI Chadi,0
+MAZLOUM Pascale,1
+CHALAK Jana,0
+SARKIS Mario,1
+JEHA Edmond,1
+ALAHMADIEH Hanady,0
+GHAFARY Eliana,1
+ALSALIM Jad,0
+ELAHMAR Sonia,0
+GEMAYEL Yara,0
+HADWANE MarieJo,0
+ABBOUD Rami,0
+KHOURY Elias,0
+FARJALLA Georges,1
+HAIDAR Houssam,1
+Rita Bader,0
+Antoine Abi Rizk,0
+Anthony Akl,0
+Patricia Daher,0
+Joseph Nehme,0
+Jean-Pierre Al  Ghafari,1
+Ali Hamka,0
+Hasan Kataya,0
+Mohamad Mordaa,1
+Ramona Abi Moussa,1
+Karine Lamaa,0
+Ghais Maksour,1
+Hassan Majed,0
